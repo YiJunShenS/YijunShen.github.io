@@ -45,7 +45,7 @@ Yijun Shen (沈逸骏) is a first-year master's student in Computer Science at [
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">Arxiv</div>
+<div class="badge">ICML 2026 Workshop LM4Plan</div>
 <img src='images/statefactory.png' alt="StateFactory" width="100%">
 </div>
 </div>
